@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sliit.MTIT.Ocelote.props" />
+</Project>

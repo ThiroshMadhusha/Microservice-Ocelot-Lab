@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{4005C0CF-4343-44EF-A767-0BA011AAF35F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sliit.MTIT.Student", "Sliit.MTIT.Student\Sliit.MTIT.Student.csproj", "{CDEBCAF1-1AE1-43E7-BD26-51397D89250C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliit.MTIT.Ocelote", "Sliit.MTIT.Ocelote\Sliit.MTIT.Ocelote.csproj", "{52C77293-C771-4979-B931-4B092B6F1DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDEBCAF1-1AE1-43E7-BD26-51397D89250C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEBCAF1-1AE1-43E7-BD26-51397D89250C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEBCAF1-1AE1-43E7-BD26-51397D89250C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEBCAF1-1AE1-43E7-BD26-51397D89250C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C77293-C771-4979-B931-4B092B6F1DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C77293-C771-4979-B931-4B092B6F1DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C77293-C771-4979-B931-4B092B6F1DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C77293-C771-4979-B931-4B092B6F1DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CDEBCAF1-1AE1-43E7-BD26-51397D89250C} = {4005C0CF-4343-44EF-A767-0BA011AAF35F}
+		{52C77293-C771-4979-B931-4B092B6F1DD4} = {4005C0CF-4343-44EF-A767-0BA011AAF35F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96C39C44-7314-4C40-8D75-0D9FA8971DAC}
+	EndGlobalSection
+EndGlobal
